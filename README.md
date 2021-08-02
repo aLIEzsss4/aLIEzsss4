@@ -13,4 +13,4 @@ Hello, I'm aLIEzsss4。
 - 🌱 I’m currently learning python、go
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLIEzsss4)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLIEzsss4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
