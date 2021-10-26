@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 Hello, I'm aLIEzsss4。
  
-- 🔭 I’m currently working on react js
+- 🔭 I’m currently working on react、node
 - 🌱 I’m currently learning python、go
 
 
