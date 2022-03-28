@@ -12,5 +12,6 @@ Hello, I'm aLIEzsss4。
 - 🔭 I’m currently working on react、node、python、solidity
 - 🌱 [web3hooks.com](https://web3hooks.com)
 
+[![GitNFT](https://img.shields.io/badge/%F0%9F%94%AE-Open%20in%20GitNFT-darkviolet?style=for-the-badge)](https://gitnft.quine.sh/app/commits/list/repo/aLIEzsss4)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLIEzsss4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
