@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 
 -->
-Hello, I'm aLIEzsss4。
+Hello, I'm hooks。 
  
-- 🔭 I’m currently working on react、node、python、solidity
-- 🌱 [web3hooks.com](https://web3hooks.com)
-
-[![GitNFT](https://img.shields.io/badge/%F0%9F%94%AE-Open%20in%20GitNFT-darkviolet?style=for-the-badge)](https://gitnft.quine.sh/app/commits/list/repo/aLIEzsss4)
+- ♟️ [Autochessia](https://github.com/HelheimLabs/autochessia)  Full-on-chain game build with MUD
+- 👾 [Hackmon](https://github.com/hackmon-labs)  MMORPG 
+- 📄 [MUD-AI-docs](https://github.com/aLIEzsss4/MUD-AI-docs)  MUD-AI-docs 
+ 
 
 
